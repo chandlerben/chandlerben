@@ -23,4 +23,4 @@ I am a Research Scientist turned Software Developer with a passion for building 
 ## Find me around the web 🌎: 
 
 - Being professional on <a href="https://www.linkedin.com/in/benjaminchandler/">LinkedIn</a> 👔
-- Connecting with friends and family on <a href="https://www.facebook.com/benjamin.chandler.127/">Facebook</a>
+- Connecting with friends and family on <a href="https://www.facebook.com/benjamin.chandler.127/">Facebook</a> 🚣‍♂️
