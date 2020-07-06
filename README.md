@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Monica 👋🏾 👩🏾‍💻
 
-<img src="https://github.com/chandlerben/chandlerben/blob/master/files/Best_Version_ReadME.gif?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/chandlerben/chandlerben/blob/master/files/Trying_Higher_Quality.gif?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
 
 
