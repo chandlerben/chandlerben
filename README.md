@@ -1,5 +1,5 @@
 
-### **Hi, I'm Ben.**  I'm working on 
+### **Hi, I'm Ben! 👍🏻 👨🏻‍💻 **
 
 <!--
 **chandlerben/chandlerben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a Research Scientist turned Software Developer with a passion for building high quality scalable products. I have a proven track record of shipping products on time, and within spec. I work with Javascript, React, Python, SQL, among others, and I'm quick to pick up new languages and frameworks.  Feel free to explore the projects I have used to learn Web Development and see what I am exploring now!
 
 
-## Find me around the web 🌎: 
+## Find me around the web 🌎 : 
 
 - Being professional on <a href="https://www.linkedin.com/in/benjaminchandler/">LinkedIn</a> 👔
 - Connecting with friends and family on <a href="https://www.facebook.com/benjamin.chandler.127/">Facebook</a> 🚣‍♂️
