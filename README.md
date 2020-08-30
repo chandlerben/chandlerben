@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
 
 <img src="https://github.com/chandlerben/chandlerben/blob/master/files/Trying_Higher_Quality.gif?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I am a Research Scientist turned Software Developer with a passion for building high quality scalable products. I have a proven track record of shipping products on time, and within spec. I work with Javascript, React, Python, SQL, among others, and I'm quick to pick up new languages and frameworks.  Feel free to explore the projects I have used to learn Web Development and see what I am exploring now!
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Find me around the web 🌎: 
+
+- Being professional on <a href="https://www.linkedin.com/in/benjaminchandler/">LinkedIn</a> 👔
+- Connecting with friends and family on <a href="https://www.facebook.com/benjamin.chandler.127/">Facebook</a> 🚣‍♂️
