@@ -14,11 +14,11 @@ JavaScript | React | Material UI | SendGrid | Redux
 
 Completed over the course of four weeks with three other team-members.
 
-    - Inherited legacy code from a prior team and adapted it with new features.
+- Inherited legacy code from a prior team and adapted it with new features.
 
-    - Responsible for adding landing page, admin/team-member pages, notifications, and organizing the back-end.
+- Responsible for adding landing page, admin/team-member pages, notifications, and organizing the back-end.
 
-    - Used React to implement a different administrative login pattern with different back-end connections.
+- Used React to implement a different administrative login pattern with different back-end connections.
 
 Lambda Road Trip - <https://github.com/lambda-mud>
 
