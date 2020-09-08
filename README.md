@@ -1,8 +1,8 @@
-# ** Benjamin Chandler **
+# Benjamin Chandler 
 
-### ** Software/Web Developer **
+###  Software/Web Developer 
 
-Seattle, WA - 801.472.8873 - benchandler@hey.com  [ ](https://github.com/chandlerben)![](https://lh4.googleusercontent.com/bh5wFiy0gJ1MJ0Sq-zoxrFEXrPaO8YCqKyo0Ms4eKgfQaxSSZKpyovqXbSYQhPTNMJp406XWjsqgtntYONameUs8J1MXS3Lr0YTLW21NJLQ9B3bhhJKOZAkoTfBD7A)
+Seattle, WA - 801.472.8873 - benchandler@hey.com  https://github.com/chandlerben)
 
 ** PROJECTS **
 
