@@ -9,7 +9,7 @@ Seattle, WA - 801.472.8873 - benchandler@hey.com  -  https://github.com/chandler
 **PROJECTS**
 
 
-Training Bot -  <https://github.com/labs13-trainingbot-3-0>
+**Training Bot** -  <https://github.com/labs13-trainingbot-3-0>
 
 A system to facilitate onboarding that automates sending training messages to new employees.
 
@@ -24,7 +24,7 @@ Completed over the course of four weeks with three other team-members.
 - Used React to implement a different administrative login pattern with different back-end connections.
 
 
-Lambda Road Trip - <https://github.com/lambda-mud>
+**Lambda Road Trip** - <https://github.com/lambda-mud>
 
 A project created with the task of learning a new framework on the job.
 
@@ -40,7 +40,7 @@ A project created with the task of learning a new framework on the job.
 
 **WORK EXPERIENCE**
 
-Lambda School -- San Ramon, CA (Worked Remotely) August 2019 -- January 2020
+**Lambda School** -- San Ramon, CA (Worked Remotely) August 2019 -- January 2020
 
 *Section Lead*
 
@@ -53,7 +53,7 @@ Lambda School -- San Ramon, CA (Worked Remotely) August 2019 -- January 2020
 - Directed and worked with instructors to make sure students' questions were answered.
 
 
-Fred Hutchinson Cancer Research Center -- Seattle, WA June 2017 -- January 2020
+**Fred Hutchinson Cancer Research Center** -- Seattle, WA June 2017 -- January 2020
 
 *Research Technician II*
 
@@ -66,7 +66,7 @@ Fred Hutchinson Cancer Research Center -- Seattle, WA June 2017 -- January 2020
 - Maintained precise lab notes and experimented with live cell cultures.
 
 
-Brigham Young University College of Life Sciences -- Provo, UT August 2014 -- May 2017
+**Brigham Young University College of Life Sciences** -- Provo, UT August 2014 -- May 2017
 
 *Research Assistant*
 
@@ -78,6 +78,6 @@ Brigham Young University College of Life Sciences -- Provo, UT August 2014 -- Ma
 
 **EDUCATION**
 
-Full-Stack Web Development, Lambda School  Dec 2018 -- Aug 2019
+*Full-Stack Web Development*, Lambda School  Dec 2018 -- Aug 2019
 
-Neuroscience B.S., Brigham Young University 2012 -- April 2017
+*Neuroscience B.S.*, Brigham Young University 2012 -- April 2017
